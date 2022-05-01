@@ -1,1 +1,40 @@
 /* Add your styles here */
+
+body{
+    background-color: beige;
+}
+
+div.right{
+    background-color: rgb(255, 255, 255);
+    border-style: solid;
+    word-wrap: break-word;
+    width: 800px;
+}
+
+h1{
+    font-size: 30px;
+    font-family: Helvetica, sans-serif;
+    font-weight: 1000;
+}
+
+p{
+    font-size: 15px;
+    font-family: Helvetica, sans-serif;
+    font-weight: 500;
+    padding: 10px;
+}
+
+blockquote{
+    text-align: center; 
+    border-left: 3px solid #60a0ff; 
+    padding-left: 5px;
+    padding: 10px;
+    font-size: 15px;
+    font-family: Helvetica, sans-serif;
+    font-weight: 1000;
+}
+
+#hey-jude{
+    margin-top: 10px;
+    margin-left: 0px;
+}
